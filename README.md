@@ -1,6 +1,7 @@
-## 📂 Estrutura do Projeto - According 
+📂 Project Structure – According
 
-- 📁 **Organização:** Cada desafio está em uma pasta própria, com **nomes padronizados**.  
-- 🖥 **Tecnologias:** Dentro de cada pasta você encontra as implementações em **HTML**, **CSS** e **JavaScript**.  
-- ✅ **Status:** Todos os desafios estão **finalizados e prontos para consulta**.  
+📁 Organization: Each challenge is placed in its own folder with standardized names.
 
+🖥 Technologies: Inside each folder you will find the implementations in HTML, CSS, and JavaScript.
+
+✅ Status: All challenges are completed and ready for consultation.
